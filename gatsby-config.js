@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog Boost Starter`,
-    description: `A Gatsby Netlify CMS powered Blog Starter to boost your development.`,
-    author: `@boostcode`,
+    title: `Uncoded`,
+    description: `A website for simple technology tutorials and information.`,
+    author: `@code_uncoded`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -53,8 +53,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `uncoded-website`,
+        short_name: `uncoded`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#f7102b`,

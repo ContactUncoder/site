@@ -51,7 +51,7 @@ const Footer = () => {
             </a>
           </div>
         </div>
-        <div>© {new Date().getFullYear()} Blog Boost Starter</div>
+        <div>© {new Date().getFullYear()} Code Uncoded</div>
       </div>
     </footer>
   )
