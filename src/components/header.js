@@ -38,7 +38,7 @@ const Header = ({ siteTitle, menuOpen, setMenuOpen }) => {
               textDecoration: `none`,
             }}
           >
-            {siteTitle}
+            code un<span id="title-accent">code</span>d
           </Link>
         </button>
 
@@ -50,7 +50,7 @@ const Header = ({ siteTitle, menuOpen, setMenuOpen }) => {
               </li>
             ))}
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">about</Link>
             </li>
           </ul>
           <div id="search-box">
