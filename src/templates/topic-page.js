@@ -28,7 +28,7 @@ const TopicPageTemplate = ({ pageContext }) => {
               category
               featuredImage {
                 childImageSharp {
-                  fluid(maxWidth: 400) {
+                  fluid(maxWidth: 2000, quality: 90) {
                     ...GatsbyImageSharpFluid
                   }
                 }
