@@ -1,0 +1,22 @@
+[
+  {
+    "name": "arduino",
+    "slug": "arduino",
+    "image": "../../static/images/topic1logo.jpg"
+  },
+  {
+    "name": "raspberry pi",
+    "slug": "raspberry-pi",
+    "image": "../../static/images/topic2logo.jpg"
+  },
+  {
+    "name": "web",
+    "slug": "web",
+    "image": "../../static/images/topic3logo.jpg"
+  },
+  {
+    "name": "more",
+    "slug": "more",
+    "image": "../../static/images/topic3logo.jpg"
+  }
+]
